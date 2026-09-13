@@ -4,20 +4,20 @@ uses QT6 and OpenSSH libraries, linux and windows compatible
 
 added features
 
-Telnet support compatible with Nonstop TELSERV T9553 product
-SSH support (OpenSSH libraries) compatible with Nonstop SSH Server T0801 product with 6530 terminal messaging specifications protocol
-Conversional and block mode working 
-Windows and Linux
+- Telnet support compatible with Nonstop TELSERV T9553 product
+- SSH support (OpenSSH libraries) compatible with Nonstop SSH Server T0801 product with 6530 terminal messaging specifications protocol
+- Conversional and block mode working 
+- Windows and linux libraries dependencies included
 
 Tested on
-Oracle Linux 10 
-Windows 11
-HPE Nonstop NSX L18.02.00
+- Oracle Linux 10 
+- Windows 11
+- HPE Nonstop NSX L18.02.00
 
 Documentation used
-6530 Programmer's Guide
+- 6530 Programmer's Guide
 
 Tools used 
-MSYS (windows)
-qtcreator
-inno setup(windows)
+- MSYS (windows)
+- qtcreator
+- inno setup(windows)
