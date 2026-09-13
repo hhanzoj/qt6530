@@ -1,0 +1,11 @@
+build/
+build-*/
+obj/
+capturas/
+vt6530_tests
+vt6530_telnet_tests
+vt6530_terminal_tests
+vt6530_replay
+vt6530cli
+README.md
+Makefile*
